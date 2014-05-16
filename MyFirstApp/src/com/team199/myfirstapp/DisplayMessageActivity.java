@@ -12,6 +12,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 public class DisplayMessageActivity extends Activity {
+	
+	// comment
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
